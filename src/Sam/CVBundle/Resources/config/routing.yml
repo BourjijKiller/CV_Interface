@@ -1,0 +1,3 @@
+sam_cv_homepage:
+    path:     /
+    defaults: { _controller: SamCVBundle:Default:index }

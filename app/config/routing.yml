@@ -1,0 +1,3 @@
+sam_cv:
+    resource: "@SamCVBundle/Resources/config/routing.yml"
+    prefix:   /
